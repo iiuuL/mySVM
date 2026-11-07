@@ -1,0 +1,29 @@
+{
+  "C_grid": [
+    0.1,
+    1,
+    10,
+    100
+  ],
+  "gamma_factors": [
+    0.01,
+    0.1,
+    1,
+    10,
+    100
+  ],
+  "cv": 3,
+  "cv_seed": 2026,
+  "scoring": "accuracy",
+  "economical_tolerance": 0.005,
+  "test_selection": false,
+  "repeats": 3,
+  "fit_process_budget": 120,
+  "prediction": "one warm-up then median of seven full test predictions; across-fit report mean",
+  "source_hashes": {
+    "svm.py": "e81f9a8de389c91fbe731dafc182aa265963ac707cdfeb81d5c33f63d8b04ee7",
+    "svm_optimized.py": "aa8a250576d7e0cb93ce078861907e3f06db4dadb833923994eaf1459199b2d2",
+    "svm_fast.py": "441bf7691e689abf6f4316a36930f02c6d6321e4c733e75b5071f31a9f8ee907",
+    "run_tricks.py": "a25f5e1534780692fc6c4b98f1ca8b7975540a31668a8bc759b71584244535f2"
+  }
+}

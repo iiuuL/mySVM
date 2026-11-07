@@ -1,0 +1,131 @@
+{
+  "speedups": [
+    {
+      "case": 0,
+      "comparison": "V0 / V1",
+      "ratio": 1.9498005715024778
+    },
+    {
+      "case": 1,
+      "comparison": "V0 / V1",
+      "ratio": 2.3400502332335225
+    },
+    {
+      "case": 2,
+      "comparison": "V0 / V1",
+      "ratio": 9.806246729731912
+    },
+    {
+      "case": 7,
+      "comparison": "V0 / V1",
+      "ratio": 2.474874079045592
+    },
+    {
+      "case": 0,
+      "comparison": "V1 / V2",
+      "ratio": 5.933395814553365
+    },
+    {
+      "case": 1,
+      "comparison": "V1 / V2",
+      "ratio": 16.91211923047577
+    },
+    {
+      "case": 2,
+      "comparison": "V1 / V2",
+      "ratio": 7.590425146120989
+    },
+    {
+      "case": 3,
+      "comparison": "V1 / V2",
+      "ratio": 23.087324620634455
+    },
+    {
+      "case": 7,
+      "comparison": "V1 / V2",
+      "ratio": 28.01454482518762
+    },
+    {
+      "case": 0,
+      "comparison": "V0 / V2",
+      "ratio": 11.56893855016656
+    },
+    {
+      "case": 1,
+      "comparison": "V0 / V2",
+      "ratio": 39.57520854974796
+    },
+    {
+      "case": 2,
+      "comparison": "V0 / V2",
+      "ratio": 74.43358176642381
+    },
+    {
+      "case": 7,
+      "comparison": "V0 / V2",
+      "ratio": 69.33247082411768
+    }
+  ],
+  "time_per_scan": [
+    {
+      "case": 0,
+      "model": "baseline",
+      "milliseconds": 19.817926339004323
+    },
+    {
+      "case": 1,
+      "model": "baseline",
+      "milliseconds": 28.538622630992155
+    },
+    {
+      "case": 2,
+      "model": "baseline",
+      "milliseconds": 215.77579999999998
+    },
+    {
+      "case": 7,
+      "model": "baseline",
+      "milliseconds": 29.738843834752323
+    },
+    {
+      "case": 0,
+      "model": "v1",
+      "milliseconds": 9.23848384879737
+    },
+    {
+      "case": 1,
+      "model": "v1",
+      "milliseconds": 9.621434036939466
+    },
+    {
+      "case": 2,
+      "model": "v1",
+      "milliseconds": 23.911372961816863
+    },
+    {
+      "case": 7,
+      "model": "v1",
+      "milliseconds": 12.200994492475239
+    },
+    {
+      "case": 0,
+      "model": "v2",
+      "milliseconds": 4.6952968911913455
+    },
+    {
+      "case": 1,
+      "model": "v2",
+      "milliseconds": 13.47600000000663
+    },
+    {
+      "case": 2,
+      "model": "v2",
+      "milliseconds": 23.663145736428522
+    },
+    {
+      "case": 7,
+      "model": "v2",
+      "milliseconds": 19.7121753623266
+    }
+  ]
+}

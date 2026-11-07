@@ -1,0 +1,46 @@
+{
+  "breast_cancer": {
+    "url": "https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data",
+    "download_url": "https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data",
+    "shape": [
+      569,
+      30
+    ],
+    "positive": 212,
+    "negative": 357,
+    "sha256": "d606af411f3e5be8a317a5a8b652b425aaf0ff38ca683d5327ffff94c3695f4a"
+  },
+  "banknote": {
+    "url": "https://archive.ics.uci.edu/ml/machine-learning-databases/00267/data_banknote_authentication.txt",
+    "download_url": "https://archive.ics.uci.edu/ml/machine-learning-databases/00267/data_banknote_authentication.txt",
+    "shape": [
+      1372,
+      4
+    ],
+    "positive": 610,
+    "negative": 762,
+    "sha256": "d0539aaed2139ba7a587b3e34fb345ce503ff7d5d33dbf9912d8e195ce425cb9"
+  },
+  "spambase": {
+    "url": "https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/spambase.data",
+    "download_url": "https://archive.ics.uci.edu/static/public/94/spambase.zip",
+    "shape": [
+      4601,
+      57
+    ],
+    "positive": 1813,
+    "negative": 2788,
+    "sha256": "b1ef93de71f97714d3d7d4f58fc9f718da7bbc8ac8a150eff2778616a8097b12"
+  },
+  "magic": {
+    "url": "https://archive.ics.uci.edu/ml/machine-learning-databases/magic/magic04.data",
+    "download_url": "https://archive.ics.uci.edu/static/public/159/magic+gamma+telescope.zip",
+    "shape": [
+      19020,
+      10
+    ],
+    "positive": 12332,
+    "negative": 6688,
+    "sha256": "e9314b7ebd4b4b59a3b3d65f7316663963777b16a46786877651dbbaa640b36a"
+  }
+}

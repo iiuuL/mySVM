@@ -1,0 +1,31 @@
+{
+  "C": 1,
+  "gamma": "1 / n_features",
+  "tol": 0.001,
+  "seed": 42,
+  "test_fraction": 0.25,
+  "repeats": 3,
+  "process_timeout_seconds": 120,
+  "threads": 1,
+  "svm_sha256": "e81f9a8de389c91fbe731dafc182aa265963ac707cdfeb81d5c33f63d8b04ee7",
+  "cases": [
+    [
+      "breast_cancer",
+      0
+    ],
+    [
+      "banknote",
+      0
+    ],
+    [
+      "spambase",
+      0
+    ],
+    [
+      "magic",
+      500
+    ]
+  ],
+  "python": "3.11.3 (tags/v3.11.3:f3909b8, Apr  4 2023, 23:49:59) [MSC v.1934 64 bit (AMD64)]",
+  "optimized_sha256": "aa8a250576d7e0cb93ce078861907e3f06db4dadb833923994eaf1459199b2d2"
+}

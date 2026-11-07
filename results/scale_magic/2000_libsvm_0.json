@@ -1,0 +1,14 @@
+{
+  "n": 2000,
+  "model": "libsvm",
+  "seconds": 0.10799479999968753,
+  "peak_mib": 114.4921875,
+  "correct": 4048,
+  "n_test": 4755,
+  "f1": 0.8928300742761861,
+  "status": "returned",
+  "kkt": 0.0005317135676090601,
+  "scans": null,
+  "equality": 0.0,
+  "box": 0.0
+}
